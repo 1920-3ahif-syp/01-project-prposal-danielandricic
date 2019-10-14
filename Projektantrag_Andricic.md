@@ -32,4 +32,3 @@ Nach jedem Monatsende wird man benachrichtigt, dass die monatliche Bilanz erstel
 ## Projektstart/Projektende
 Kein feststehender Termin verfügbar.
 # 01-project-prposal-danielandricic
-# 01-project-prposal-danielandricic
